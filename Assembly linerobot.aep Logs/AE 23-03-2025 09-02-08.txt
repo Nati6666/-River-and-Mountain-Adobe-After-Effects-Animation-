@@ -1,0 +1,17 @@
+Adobe After Effects v25.1 Windows 64 render log for project “Assembly linerobot.aep”
+
+Rendering started on 23/03/2025 at 09:02:08
+
+  23/03/2025 09:02:08: Starting composition “At the Plant”.
+
+  Output To: D:\NatiADObeaftereffect\At the Plant\At the Plant.mp4    23/03/2025 09:04:14: Finished composition “At the Plant”.
+
+
+  23/03/2025 09:04:14: Starting composition “At the Plant”.
+
+  Output To: D:\NatiADObeaftereffect\At the Plant\At the Plant_1.mp4    23/03/2025 09:06:44: Finished composition “At the Plant”.
+
+
+  Total Time Elapsed: 4 Min, 36 Sec
+Log closed on 23/03/2025 at 09:06:44
+
